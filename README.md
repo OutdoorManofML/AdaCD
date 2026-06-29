@@ -25,7 +25,7 @@ and prints the model's response to the terminal.
 **Step 2. (Optional) Adjust Hyperparameters.**
 
 ```bash
-python adacd_demo.py \
+python AdaCD.py \
     --model /path/to/your/model \
     --ratio 4.5 \
     --lmd 0.9 \
